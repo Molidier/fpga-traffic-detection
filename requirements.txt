@@ -1,0 +1,4 @@
+numpy==1.24.3
+opencv-python==4.7.0.72
+pyserial==3.5
+matplotlib==3.7.1  # Optional, for visualization if needed
