@@ -101,6 +101,3 @@ This project implements a real-time vehicle tracking and counting system with ex
 ## Author  
 Developed by Moldir Azhimukhanbet.  
 
---- 
-
-Let me know if you'd like additional modifications!
