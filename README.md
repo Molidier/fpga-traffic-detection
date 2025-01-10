@@ -24,7 +24,7 @@ This project implements a real-time vehicle tracking and counting system with ex
 | `fpga_traffic.py`  | Main script for vehicle detection, tracking, counting, and FPGA communication. |
 | `data/`            | Contains pre-trained models, video inputs, and related resources.           |
 | `sort/`            | SORT tracking algorithm implementation for real-time object tracking.       |
-| `src/`             | Folder for additional source code and utilities.                           |
+| `src/`             | Folder that contains main source code.                           |
 
 ---
 
